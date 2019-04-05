@@ -16,7 +16,7 @@ An individual neuron receives information in its Dendrites (in the form of chemi
 
 As its biological counterpart, ANN’s consist of a collection of processing units called artificial neurons which receive multiple inputs and have one output. These connections are weighted, which basically means that they carry a value. Each artificial neuron performs a weighted calculation on its inputs, and outputs the result of this calculation. Here is a visualization of an artificial neuron in comparison to a biological neuron.
 
-![Artificial Neuron](neuron.png)
+![Artificial Neuron](artificialneuron.png)
 
 The calculation that each neuron performs is a function of the inputs and is called the **transfer function**. The network as a whole is then able to detect patterns and perform complex computations. 
 
