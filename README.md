@@ -30,11 +30,11 @@ Let’s think about a very simple ANN, a single input neuron and output neuron. 
 
 ![Single ANN](singleANN.jpg)
 
-#### Multilayered ANN's
+### Multilayered ANN's
 
 There are not a lot of complicated computations that can be done with this network, which is why networks are usually structured in **layers**, which are collections of artificial neurons. Multilayered neural networks are the basis of Deep Learning, an area of machine learning research (and broader family of ML methods). Multilayered ANN’s consist of an input layer (these layers get the information from the outside world), hidden layers (they are called hidden because their inputs and outputs go to other neurons)  and the output layer. 
 
-##### Feedforward ANN's
+#### Feedforward ANN's
 Let’s look at a visualization for an ANN that has one input layer, one hidden layer, and one output layer. This type of ANN is called a **Feedforward Neural Network**, which basically means that connections between artificial neurons do not form cycles:
 
 
@@ -48,7 +48,7 @@ Here is a visual representation of a multilayered ANN, with multiple hidden laye
 
 This network consists of an input layer with 8 units, two hidden layers with 6 units and an output unit. As you can see, the output of each unit is passed to all the units in the next layer, which is generally the case in feed-forward networks. 
 
-##### Recurrent Neural Networks
+#### Recurrent Neural Networks
 
 Have you considered cases where Feedforward ANN’s are not the best frameworks to be used? Problems such as speech or handwriting recognition are dynamic in nature, as current outputs depend on previous knowledge (for example in a speech recognition sequence we can narrow down inappropriate outputs by having access to what was previously outputted as the next word usually depends on previous statements in coherent speech. Feedforward ANN’s have no way to store memory. They are only applicable for cases when correct outputs for each input are independent of each other and are computable based on the training set we provided it. For applications with **sequential input**,  another kind of ANN comes into play: 
 
