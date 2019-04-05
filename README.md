@@ -37,7 +37,7 @@ There are not a lot of complicated computations that can be done with this netwo
 Let’s look at a visualization for an ANN that has one input layer, one hidden layer, and one output layer. This type of ANN is called a **Feedforward Neural Network**, which basically means that connections between artificial neurons do not form cycles:
 
 
-![FeedForward ANN](singleANN.jpg)
+![FeedForward ANN](1hiddenlayer.jpg)
 
 
 
