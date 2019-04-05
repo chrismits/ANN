@@ -4,34 +4,8 @@ The field of Artificial Intelligence which deals with intelligence demonstrated 
 
 In this post, I will provide a brief and simple introduction to ANN’s and hopefully when you finish reading this you will have a high-level understanding of how and why they are used.
 
-### Markdown
+### Connection to Nature: Biological Neural Networks
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Neurons are the fundamental units of the brain and nervous systems. They are a specialized cell whose function is to transmit information from one part to the other. Neurons “connect” with other neurons to form networks, and communicate with each other through a process of electrochemical signaling. These neural networks act as the basis for human cognitive function and allows us to process and handle information.
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/chrismits/ANN-CBS/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
