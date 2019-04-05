@@ -41,12 +41,14 @@ Let’s look at a visualization for an ANN that has one input layer, one hidden 
 
 What’s so special about this and any other feed-forward neural network is that they follow the [Universal Approximation Theory](http://mcneela.github.io/machine_learning/2017/03/21/Universal-Approximation-Theorem.html), which in its simplest form states that a Feedforward neural network with at least one hidden layer is able to represent any computable function possible, if structured and trained correctly and with the appropriate transfer functions. This is fascinating to think about, even for the simplest of Feedforward ANN's.
 
- Here is a visual representation of a multilayered ANN, with multiple hidden layers:
- 
+Here is a visual representation of a multilayered ANN, with multiple hidden layers:
  
 ![Multilayered ANN](ann2.jpg)
 
+This network consists of an input layer with 8 units, two hidden layers with 6 units and an output unit. As you can see, the output of each unit is passed to all the units in the next layer, which is generally the case in feed-forward networks. 
 
+Have you considered cases where Feed-forward ANN’s are not the best frameworks to be used? Problems such as speech or handwriting recognition are dynamic in nature, as current outputs depend on previous knowledge (for example in a speech recognition sequence we can narrow down inappropriate outputs by having access to what was previously outputted as the next word usually depends on previous statements in coherent speech. Feed-forward ANN’s have no way to store memory. They are only applicable for cases when correct outputs for each input are independent of each other and are computable based on the training set we provided it. For applications with **sequential input**,  another kind of ANN comes into play: 
 
+**Recurrent neural networks (RNN’s)** are ANN’s that use their _"internal memory”_ to process sequential input. These networks employ feedback loops, where the output of one layer routes back to the previous layer. There are various types of RNN’s, with a very useful and powerful one being the [LSTM (Long short-term memory)](https://en.wikipedia.org/wiki/Long_short-term_memory). What’s fascinating about this architecture is that it acts it can compute anything that a Turing Machine (or any general purpose computer), using its feedback loops, even with applications that require sequential or discrete inputs.
 
 
