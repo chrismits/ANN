@@ -56,7 +56,7 @@ Have you considered cases where Feedforward ANN are not the best frameworks to b
 
 ### Future Study
 
-I know that this was a lot of information to withhold but I hope that I was able to shed some light into these intimidating computational frameworks that are being used everywhere nowadays. Obviously you cannot expect to be an expert overnight, but fortunately the internet is the #1 resource to learn. If you want to play around with an ANN, I suggest [Tensorflow's playground](http://playground.tensorflow.org/#activation=tanh&batchSize=10&dataset=circle&regDataset=reg-plane&learningRate=0.03&regularizationRate=0&noise=0&networkShape=4,2&seed=0.47097&showTestData=false&discretize=false&percTrainData=50&x=true&y=true&xTimesY=false&xSquared=false&ySquared=false&cosX=false&sinX=false&cosY=false&sinY=false&collectStats=false&problem=classification&initZero=false&hideText=false)
+I hope that I was able to shed some light on these intimidating computational frameworks that are being used everywhere nowadays. Obviously you cannot expect to be an expert overnight, but fortunately the internet is the #1 resource to learn. If you want to play around with an ANN, I suggest [Tensorflow's playground](http://playground.tensorflow.org/#activation=tanh&batchSize=10&dataset=circle&regDataset=reg-plane&learningRate=0.03&regularizationRate=0&noise=0&networkShape=4,2&seed=0.47097&showTestData=false&discretize=false&percTrainData=50&x=true&y=true&xTimesY=false&xSquared=false&ySquared=false&cosX=false&sinX=false&cosY=false&sinY=false&collectStats=false&problem=classification&initZero=false&hideText=false).
 
 ### Sources
 
