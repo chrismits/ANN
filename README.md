@@ -1,6 +1,6 @@
 ## Brief Introduction to Artificial Neural Networks
 
-The field of Artificial Intelligence which deals with intelligence demonstrated by computer systems, has seen major growth in the last few years and much of that growth can be attributed to advancements in **Artificial Neural Networks** (or ANN’s for short). ANN’s can be thought of as computational frameworks, loosely inspired by the human cognitive function and biological neural networks. 
+The field of Artificial Intelligence, which deals with intelligence demonstrated by computer systems, has seen major growth in the last few years and much of that growth can be attributed to advancements in **Artificial Neural Networks** (or ANN’s for short). ANN’s can be thought of as computational frameworks, loosely inspired by the human cognitive function and biological neural networks. 
 
 In this post, I will provide a brief and simple introduction to ANN’s and hopefully when you finish reading this you will have a high-level understanding of how and why they are used.
 
