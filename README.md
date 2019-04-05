@@ -10,4 +10,4 @@ Neurons are the fundamental units of the brain and nervous systems. They are a s
 
 ![Neuron Structure](neuron.png)
 
-An individual neuron receives information in its Dendrites (in the form of chemical signals), process it and then propagates that information at the Axon Terminals. Note that there are many different types of neurons so their structure and function can vary. If they receive the necessary amount of excitatory input, the neuron “fires” and transmits a signal through the network.
+An individual neuron receives information in its Dendrites (in the form of chemical signals), process it and then propagates that information at the Axon Terminals. Note that there are many different types of neurons so their structure and function can vary. If they receive the necessary amount of excitatory input, the neuron “fires” and transmits a signal through the network. 
