@@ -24,7 +24,7 @@ However, to be able to perform a calculation, we have to show it how:
 
 This can be done by providing the network with examples. This process is called **supervised learning**, where the ANN is given a set of example inputs, as well as what the correct output should be for each input. The networks then adjust the weights and firing rules (the calculation at each unit) of artificial neurons, calculate the probability of each output, and if the input set is large enough, become experts in the task on hand. In other words, they strengthen the connections that lead to success and weaken those that lead to failure. 
 
-Artificial Neural Networks usually tackle two types of problems, **classification** problems which are all about predicting the correct label for an input, and **regression** problems which deal with computing a value.
+Artificial Neural Networks usually tackle two types of problems; **classification** problems which are all about predicting the correct label for an input and **regression** problems which deal with computing a value.
 
 Let’s think about a very simple ANN, a single input neuron and output neuron. A representation of it looks like this:
 
