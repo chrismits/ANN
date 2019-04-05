@@ -62,12 +62,14 @@ I hope that I was able to shed some light on these intimidating computational fr
 
 1. Dacs. (n.d.). Artificial Neural Networks Technology. Retrieved April 5, 2019, from http://www.psych.utoronto.ca/users/reingold/courses/ai/cache/neural2.html
 
-3. Stergiou, C., & Siganos, D. (n.d.). Introduction to neural networks. Retrieved April 5, 2019, from 
+2. Josh, & Josh. (2015, December 28). Everything You Need to Know About Artificial Neural Networks. Retrieved from https://medium.com/technology-invention-and-more/everything-you-need-to-know-about-artificial-neural-networks-57fac18245a1
+
+3. Michael A. Nielsen, "Neural Networks and Deep Learning", Determination Press, 2015 
+
+4. Stergiou, C., & Siganos, D. (n.d.). Introduction to neural networks. Retrieved April 5, 2019, from 
 https://www.doc.ic.ac.uk/~nd/surprise_96/journal/vol4/cs11/report.html#Contents
 
-4. Josh, & Josh. (2015, December 28). Everything You Need to Know About Artificial Neural Networks. Retrieved from https://medium.com/technology-invention-and-more/everything-you-need-to-know-about-artificial-neural-networks-57fac18245a1
 
-5. Michael A. Nielsen, "Neural Networks and Deep Learning", Determination Press, 2015 
 
 Images :
 
