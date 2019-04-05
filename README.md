@@ -10,19 +10,19 @@ Neurons are the fundamental units of the brain and nervous systems. They are a s
 
 ![Neuron Structure](neuron.png)
 
-An individual neuron receives information in its Dendrites (in the form of chemical signals), process it and then propagates that information at the Axon Terminals. Note that there are many different types of neurons so their structure and function can vary. If they receive the necessary amount of excitatory input, the neuron “fires” and transmits a signal through the network. 
+An individual neuron receives information in its Dendrites (in the form of chemical signals), processes it and then propagates that information to the Axon Terminals. Note that there are many different types of neurons so their structure and function can vary. If they receive the necessary amount of excitatory input, the neuron “fires” and transmits a signal through the network. 
 
 ### Delving deeper into ANN's
 
-As its biological counterpart, ANN’s consist of a collection of processing units called artificial neurons which receive multiple inputs and have one output. These connections are weighted, which basically means that they carry a value. Each artificial neuron performs a weighted calculation on its inputs, and outputs the result of this calculation. Here is a visualization of an artificial neuron in comparison to a biological neuron.
+As its biological counterpart, ANN’s consist of a collection of processing units called artificial neurons which receive multiple inputs and calculate outputs. These connections are weighted, which basically means that they carry a value. Each artificial neuron performs a weighted calculation on its inputs, and outputs the result of this calculation. Here is a visualization of an artificial neuron in comparison to a biological neuron.
 
 ![Artificial Neuron](artificialneuron.png)
 
-The calculation that each neuron performs is a function of the inputs and is called the **transfer function**. The network as a whole is then able to detect patterns and perform complex computations. 
+The calculation that each neuron performs is a function of the inputs and is called the **transfer function**. The network as a whole is then able to detect patterns/perform complex computations etc. 
 
 However, to be able to perform a calculation, we have to show it how: 
 
-This can be done by providing the network with examples. This process is called **supervised learning**, where the ANN is given a set of example inputs, as well as what the correct output should be for each input. The artificial neural networks then adjust the weights and firing rules (the calculation at each unit) of artificial neurons, calculate the probability of each output and, if the input set is large enough, become experts in the task on hand. In other words they strengthen the connections that lead to success and weaken those that lead to failure. 
+This can be done by providing the network with examples. This process is called **supervised learning**, where the ANN is given a set of example inputs, as well as what the correct output should be for each input. The networks then adjust the weights and firing rules (the calculation at each unit) of artificial neurons, calculate the probability of each output and, if the input set is large enough, become experts in the task on hand. In other words they strengthen the connections that lead to success and weaken those that lead to failure. 
 
 Artificial Neural Networks usually tackle two types of problems, **classification** problems which are all about predicting the correct label for an input, and **regression** problems which deals with computing a value.
 
