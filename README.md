@@ -29,3 +29,19 @@ Artificial Neural Networks usually tackle two types of problems, **classificatio
 Let’s think about a very simple ANN, a single input neuron and output neuron. A representation of it looks like this:
 
 ![Single ANN](singleANN.jpg)
+
+#### Multilayered ANN's
+
+There are not a lot of complicated computations that can be done with this network, which is why networks are usually structured in **layers**, which are collections of artificial neurons. Multilayered neural networks are the basis of Deep Learning, an area of machine learning research (and broader family of ML methods). Multilayered ANN’s consist of an input layer (these layers get the information from the outside world), hidden layers (they are called hidden because their inputs and outputs go to other neurons)  and the output layer. 
+
+Let’s look at a visualization for an ANN that has one input layer, one hidden layer, and one output layer. This type of ANN is called a **Feedforward Neural Network**, which basically means that connections between artificial neurons do not form cycles:
+
+
+![FeedForward ANN](singleANN.jpg)
+
+
+
+
+
+
+
