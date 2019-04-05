@@ -1,8 +1,8 @@
 ## Brief Introduction to Artificial Neural Networks
 
-You can use the [editor on GitHub](https://github.com/chrismits/ANN-CBS/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+The field of Artificial Intelligence which deals with intelligence demonstrated by computer systems, has seen major growth in the last few years and many believe that this growth is due to advancements in **Artificial Neural Networks** (or ANN’s for short). ANN’s can be thought of as computational frameworks, loosely inspired by the human cognitive function and biological neural networks. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+In this post, I will provide a brief and simple introduction to ANN’s and hopefully when you finish reading this you will have a high-level understanding of how and why they are used.
 
 ### Markdown
 
