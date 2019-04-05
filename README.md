@@ -26,4 +26,6 @@ This can be done by providing the network with examples. This process is called 
 
 Artificial Neural Networks usually tackle two types of problems, **classification** problems which are all about predicting the correct label for an input, and **regression** problems which deals with computing a value.
 
+Let’s think about a very simple ANN, a single input neuron and output neuron. A representation of it looks like this:
 
+![Simple ANN](artificialneuron.png)
