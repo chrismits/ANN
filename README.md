@@ -45,7 +45,7 @@ Here is a visual representation of a multilayered ANN, with multiple hidden laye
  
 ![Multilayered ANN](ann2.jpg)
 
-This network consists of an input layer with 8 units, two hidden layers with 6 units and an output unit. As you can see, the output of each unit is passed to all the units in the next layer, which is generally the case in feed-forward networks. 
+This network consists of an input layer with 8 units, two hidden layers with 6 units (pictured in blue) and an output unit. As you can see, the output of each unit is passed to all the units in the next layer, which is generally the case in feed-forward networks. 
 
 #### Recurrent Neural Networks
 
