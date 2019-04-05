@@ -39,7 +39,7 @@ Let’s look at a visualization for an ANN that has one input layer, one hidden 
 
 ![Feedforward ANN](1hiddenlayer.jpg)
 
-What’s so special about this, and any other feed-forward neural network, is that they follow the [Universal Approximation Theory](http://mcneela.github.io/machine_learning/2017/03/21/Universal-Approximation-Theorem.html). In its simplest form this theory states that a Feedforward neural network with at least one hidden layer is able to represent any computable function possible, if structured and trained correctly and with the appropriate transfer functions. This is fascinating to think about, even for the simplest of Feedforward ANN's.
+What’s so special about this, and any other feed-forward neural network, is that they follow the [Universal Approximation Theory](http://mcneela.github.io/machine_learning/2017/03/21/Universal-Approximation-Theorem.html). In its simplest form this theory states that a Feedforward neural network, with at least one hidden layer, is able to represent any computable function possible if structured and trained correctly and with the appropriate transfer functions. This is fascinating to think about, even for the simplest of Feedforward ANN.
 
 Here is a visual representation of a multilayered ANN, with multiple hidden layers:
  
