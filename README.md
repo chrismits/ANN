@@ -39,6 +39,8 @@ Let’s look at a visualization for an ANN that has one input layer, one hidden 
 
 ![FeedForward ANN](1hiddenlayer.jpg)
 
+What’s so special about this and any other feed-forward neural network is that they follow the [Universal Approximation Theory](http://mcneela.github.io/machine_learning/2017/03/21/Universal-Approximation-Theorem.html)
+
 
 
 
