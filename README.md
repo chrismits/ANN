@@ -28,4 +28,4 @@ Artificial Neural Networks usually tackle two types of problems, **classificatio
 
 Let’s think about a very simple ANN, a single input neuron and output neuron. A representation of it looks like this:
 
-![Simple ANN](simpleANN.png)
+![Simple ANN](singleANN.jpg)
